@@ -4,16 +4,17 @@ JOSE VICENTE TEJERO CALDERERA
 
 RESUMEN
 
-Exercise 1: Creating a Print-Friendly Style Sheet
+### Exercise 2: Creating a Speaker Badge by Using the Canvas API
+
+#### Task 1: Create the canvas element
+
+
+
+
 
 DIFICULTAD: No
 
 
 
-![image-20201002094157233](C:\aa\20480C\Allfiles\Mod10\Labfiles\Starter\Exercise 1\ContosoConf\image-20201002094157233.png)
 
 
-
-Después de crear print.css
-
-![image-20201002100334243](C:\aa\20480C\Allfiles\Mod10\Labfiles\Starter\Exercise 1\ContosoConf\image-20201002100334243.png)
